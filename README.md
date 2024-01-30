@@ -6,7 +6,7 @@ Note the jupyterbook scripts and path references are custom to my local setup an
 
 
 ## Update 2024-01-30
-Added `proj` module checkpoint saved via
+Added [`TrainableSubmodule`](https://github.com/moomou/listening-with-llm/blob/master/src2/voixdb/model.py#L125) module checkpoint saved via
 
 ```
 torch.save(
